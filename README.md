@@ -1,5 +1,5 @@
 # tool-shutdown
-<b>Tool Tắt Máy Làm Bằng Con Trăn
+<b>Tool Tắt Máy Làm Bằng Con Trăn<br>
 Note: Méo dành cho Mac và Linux nha =))</b><br>
 Kênh Youtube: https://www.youtube.com/channel/UCYl4-jjbobDXhiLj-HQuKqw <br>
 Facebook tôi: https://www.facebook.com/minkalexvina <br>
